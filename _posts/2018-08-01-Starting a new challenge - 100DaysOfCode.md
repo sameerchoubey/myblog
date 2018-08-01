@@ -14,7 +14,7 @@ So, if you know me, you would know that I’m a big procrastinator. I procrastin
 
 It has been 2 weeks since I decided that I will start a challenge for myself. 
 
-Starting #100DaysofCode,
+**Starting #100DaysofCode,**
 
 I’ve heard a lot about this challenge. 
 
@@ -24,13 +24,13 @@ Due to academic issues, I might not be able to code for a certain period of time
 
 So, the challenge will be as follow:-
 
-a) I’ll be spending at least one-hour coding every day. Be it learning something new, or solving algorithmic problems. Solving programming problems or working on a project. All of these will count towards this.
-b) On the weekends, I’ll be spending at least two hours towards this goal. This is super compulsory. 
-c) If one a particular day, I’m not able to code for an obvious reason, I will not be stopping and will continue from the very next day.
-d) I’ll update my daily activity on Twitter with hashtag, #100DaysofCode. You can follow me on Twitter, my username is @SameerChoubey98
-e) Every 2 or 3 weeks, I’ll post a summary of the things, I’ve learned in the last couple of days.
+* I’ll be spending at least one-hour coding every day. Be it learning something new, or solving algorithmic problems. Solving programming problems or working on a project. All of these will count towards this.
+* On the weekends, I’ll be spending at least two hours towards this goal. This is super compulsory. 
+* If one a particular day, I’m not able to code for an obvious reason, I will not be stopping and will continue from the very next day.
+* I’ll update my daily activity on Twitter with hashtag, #100DaysofCode. You can follow me on Twitter, my username is @SameerChoubey98
+* Every 2 or 3 weeks, I’ll post a summary of the things, I’ve learned in the last couple of days.
 
-What I aim to with the help of this challenge?
+**What I aim to with the help of this challenge?**
 
 I aim to improve myself as a person who can take challenges. Over the time, I have analyzed myself and found out that I really need to improve in some of the areas and it is necessary.
 
