@@ -38,10 +38,7 @@ I aim to make myself more productive because productivity is something that can 
 
 I aim to generate a habit to work on my goals regularly. Although I’ve some sort of interest in this field, there is something I lag no matter which filed it is. I give up things very often after starting. I don’t want to do that. I wish to improve myself.
 
-The next reason, I’m mentioning is not a reason, but still, I thought, I should mention it. 
-I aim to start writing more often. A couple of months back, I decided to stop writing for money and it is one of the best decision I’ve made till now. 
-
-I’ll be updating about this challenge after 10 days from now. 30th July 2018, mark the timing :).
+I’ll be updating about this challenge after 10 days from now. 12th Aug 2018, mark the timing :).
 
 
 
