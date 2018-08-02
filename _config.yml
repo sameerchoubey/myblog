@@ -1,11 +1,53 @@
-# basic options
-title: Sameer Choubey
-author: Sameer Choubey
-email: sameer.choubey98@gmail.com
-description: I write.
-twitter_username: SameerChoubey98
-github_username:  sameerchoubey
 
 # Build settings
+permalink: /blog/:year/:title/
 markdown: kramdown
-theme: minima
+highlighter: pygments
+plugins: [jekyll-paginate]
+
+paginate: 3
+paginate_path: "/blog/page/:num/"
+comments: true
+
+source: source
+destination: _site
+sass:
+  sass_dir: _sass
+  style: compressed # expanded
+
+# SEO settings
+title: Sameer Choubey
+description: "Welcome to my blog"
+keywords: 
+url: http://sameer.ooo
+baseurl: "/end2end"
+
+google_analytics: UA-52446115-1
+repo: http://github.com/sameerchoubey/myblog
+disqus_shortname: "nandothemes"
+disqus_site_shortname: "nandothemes"
+
+# Author settings
+author:
+  name: Sameer Choubey
+  job: Aspiring Developer
+  bio: "Presently a B.Tech ECE Student at NIT Sikkim"
+  thumb: /images/author.jpg
+  email: sameer.choubey98@gmail.com
+  url: http://sameer.ooo
+  github: https://github.com/sameerchoubey
+  twitter: https://twitter.com/SameerChoubey98
+  facebook: https://facebook.com/TheSameerChoubey
+  linkedin: https://www.linkedin.com/in/sameer-choubey-256737156/
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  - slug: icons
+    title: Icons
+  - slug: blog
+    title: Blog
+
+exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
+
