@@ -1,4 +1,3 @@
-
 # Build settings
 permalink: /blog/:year/:title/
 markdown: kramdown
@@ -16,29 +15,29 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: Sameer Choubey
-description: "Welcome to my blog"
-keywords: 
-url: http://sameer.ooo
+title: end2end
+description: "A free Jekyll theme for download"
+keywords: "Jekyll, theme, free, download, SEO, blog, web"
+url: http://nandomoreira.me
 baseurl: "/end2end"
 
 google_analytics: UA-52446115-1
-repo: http://github.com/sameerchoubey/myblog
+repo: http://github.com/nandomoreirame/end2end
 disqus_shortname: "nandothemes"
 disqus_site_shortname: "nandothemes"
 
 # Author settings
 author:
-  name: Sameer Choubey
-  job: Aspiring Developer
-  bio: "Presently a B.Tech ECE Student at NIT Sikkim"
+  name: Fernando Moreira
+  job: Frontend Engineer
+  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
   thumb: /images/author.jpg
-  email: sameer.choubey98@gmail.com
-  url: http://sameer.ooo
-  github: https://github.com/sameerchoubey
-  twitter: https://twitter.com/SameerChoubey98
-  facebook: https://facebook.com/TheSameerChoubey
-  linkedin: https://www.linkedin.com/in/sameer-choubey-256737156/
+  email: nandomoreira.me@gmail.com
+  url: https://nandomoreira.me/
+  github: https://github.com/nandomoreirame
+  twitter: https://twitter.com/umdevux
+  facebook: https://facebook.com/umdevux
+  linkedin: https://linkedin.com/in/nandomoreirame
 
 # navbar pages
 navbar:
@@ -50,4 +49,3 @@ navbar:
     title: Blog
 
 exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
-
